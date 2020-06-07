@@ -1,0 +1,11 @@
+.DS_Store
+node_modules
+ElectronShinyApp*
+R-Portable-Mac
+R-Portable-Win
+.Rproj.user
+.RData
+.Rhistory
+testShinyElectronAddIn.Rproj
+trash
+LICENSE.md
